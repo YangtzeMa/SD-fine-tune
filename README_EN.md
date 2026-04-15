@@ -464,20 +464,6 @@ class CustomDataset(Dataset):
 - LoRA paper: [LoRA: Low-Rank Adaptation](https://arxiv.org/abs/2106.09685)
 - DreamBooth paper: [DreamBooth: Fine Tuning Text-to-Image Diffusion Models](https://arxiv.org/abs/2208.12242)
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📧 Contact
 
 For questions or suggestions, please open an Issue or contact the project maintainers.
@@ -485,7 +471,3 @@ For questions or suggestions, please open an Issue or contact the project mainta
 ---
 
 **Last Updated**: April 2024
-
-**Project Status**: ✅ Active Development
-
-**Supported Platforms**: Linux, Windows, macOS
