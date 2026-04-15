@@ -458,16 +458,6 @@ class CustomDataset(Dataset):
    - 检查点管理
    - 分布式训练支持
 
-## 📝 引用和致谢
-
-- 感谢 Hugging Face 提供的 `diffusers` 库
-- Stable Diffusion 由 Stability AI 开发
-- LoRA 技术参考论文：[LoRA: Low-Rank Adaptation](https://arxiv.org/abs/2106.09685)
-- DreamBooth 论文：[DreamBooth: Fine Tuning Text-to-Image Diffusion Models](https://arxiv.org/abs/2208.12242)
-
-## 📄 许可证
-
-MIT License - 详见 LICENSE 文件
 
 ## 🤝 贡献指南
 
@@ -486,7 +476,3 @@ MIT License - 详见 LICENSE 文件
 ---
 
 **最后更新**：2024 年 4 月
-
-**项目状态**：✅ 活跃开发中
-
-**支持的平台**：Linux, Windows, macOS
